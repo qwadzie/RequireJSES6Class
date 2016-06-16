@@ -26,6 +26,7 @@ es6c: class ES6C {
 		}
 ```
 It is defined in the module 'lib/print.js' in the define statement.
+
 It is loaded in 'app/main.js' with a require statement.
   
  
